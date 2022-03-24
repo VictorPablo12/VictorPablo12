@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94057227/159806566-0e18bee4-a04f-4427-ac0d-548c33d5d8dc.gif" alt="animated" />
 </p>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPablo12&layout=compact" />
+</p>
