@@ -1,18 +1,4 @@
 <!--
-**VictorPablo12/VictorPablo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94057227/159806566-0e18bee4-a04f-4427-ac0d-548c33d5d8dc.gif" alt="animated" />
 </p>
@@ -20,4 +6,7 @@ Here are some ideas to get you started:
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPablo12&layout=compact" />
 </p>
+
+- 🔭 I’m currently working @Cegid as data analyst and @GammaTechSchool as lead teacher of the part-time data analytics Bootcamp
+- 🌱 I’m always learning, but lately Python and SQL
 -->
